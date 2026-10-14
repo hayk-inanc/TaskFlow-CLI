@@ -1,0 +1,29 @@
+# Dependencies
+node_modules/
+
+package-lock.json
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+*.log
+
+# Packages
+*.tgz
+
+# Environment
+.env
+.env.*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# Local task data (uncomment to keep personal tasks out of git)
+# tasks.json
